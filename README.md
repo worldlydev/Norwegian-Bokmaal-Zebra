@@ -1,3 +1,16 @@
+# WorldlyDev’s Zebra Fork
+
+This fork is now archived as it has been merged into the original repository. It added Norwegian Bokmål and Norwegian Nynorsk localizations.
+- https://github.com/wstyres/Zebra/pull/410
+- https://github.com/wstyres/Zebra/pull/412
+- https://github.com/wstyres/Zebra/pull/464
+- https://github.com/wstyres/Zebra/pull/486
+
+The localizations are hosted on Crowdin and can be editited here:
+https://crowdin.com/project/zebra
+
+---
+
 # Zebra [![Build Status](https://travis-ci.org/wstyres/Zebra.svg?branch=master)](https://travis-ci.org/wstyres/Zebra)
 Zebra (neé AUPM) is a Package Manager for jailbroken iOS devices. It is built to support iOS 9 up to iOS 12 and for iPhones and iPads alike.
 
